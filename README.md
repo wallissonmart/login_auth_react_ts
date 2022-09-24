@@ -33,6 +33,7 @@ Para rodar em sua máquina, siga os seguintes passos:
 <h1 align="left" id="tecnologias">🛠️ Técnicas e tecnologias utilizadas</h1>
 
 - [React](https://pt-br.reactjs.org/docs/getting-started.html)
+- [TypeScript](https://www.typescriptlang.org/pt/docs/)
 - [Vite](https://vitejs.dev/guide/)
 
 <h1 align="left" id="autor">✍️ Autor</h1>
