@@ -1,7 +1,7 @@
 import { Api } from '../../services/api';
 import { IUser } from './types';
 
-export async function LoguinRequest(email: string, password: string) {
+export async function LoginRequest(email: string, password: string) {
   try {
     const request = await Api.post('/login', { email, password });
     return request.data;
