@@ -27,7 +27,7 @@ Para rodar em sua máquina, siga os seguintes passos:
 
 <h1 align="left" id="funcionalidades">⚙️ Funcionalidades</h1>
 
-- [x] Autenticaçaõ de usuário;
+- [x] Autenticação de usuário;
 - [x] Proteção de URL;
 
 <h1 align="left" id="tecnologias">🛠️ Técnicas e tecnologias utilizadas</h1>
